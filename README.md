@@ -2,4 +2,6 @@ Josh Edington
 
 12328303
 
-UCHicago CS Git Tutorial
+UChicago CS Git Tutorial
+
+Git is pretty cool
