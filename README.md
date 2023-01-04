@@ -1,1 +1,3 @@
-Josh Edington# uchicago-cs-git-tutorial
+Josh Edington
+
+12328303
